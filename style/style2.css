@@ -48,3 +48,9 @@
 
 	
 }
+@media(max-width:800px){
+	.slider-frame{
+        display: none;
+
+	}
+}
